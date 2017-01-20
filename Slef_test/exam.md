@@ -11,10 +11,15 @@
 		- support
 		- peg
 	4. configure the share with below pattren
-		|User_Name|support-Permission|Peg-Permission|
-		| :--------:|:---:|:---:|
-		| support   | RW  | X   |
-		| peg       | X   | RW  |
+
+|User_Name|support-Permission|Peg-Permission|
+| :--------: | :---: | :---: |
+| support    | RW    | X   |
+| peg        | X     | RW  |
+
+RW-Read Write
+X-no Permission
+
 	5. Take below screen shots
 		- show all share to exam_share.png
 		- show all users to exam_users.png
