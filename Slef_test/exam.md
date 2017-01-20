@@ -5,13 +5,13 @@
 ## NAS 
 
 1. Create NAS Disk 
-	- exam
+	- __exam__
 2. Create 2 Shares 
-	- support
-	- peg
+	- __support__
+	- __peg__
 3. Create 2 Users
-	- support
-	- peg
+	- __support__
+	- __peg__
 4. configure the share with below pattren
 <center>
 
@@ -32,18 +32,17 @@ X-no Permission
 ## SAN
 
 1. Create Below Disks
-	- BIO Disk of 15GB name ```disk1```
-	- BIO Disk of 15GB name ```disk2```
+	- BIO Disk of 15GB name __disk1__
+	- BIO Disk of 15GB name __disk2__
 2. access the disk1 in windows client through iSCSI
-	- Take the  screenshot of device  manager showing 15GB disk ```exam_iscsi.png```
+	- Take the  screenshot of device  manager showing 15GB disk __exam_iscsi.png__
 3. access the disk2 in linux client through iSCSI
-	- take the lsscsi output in exam_lsscsi.md
+	- take the lsscsi output in __exam_lsscsi.md__
 
-***
 
 ### HPC
 ---
-1. Configure the Cluster Show ganglia page and  upload as exam_cluster.png
+1. Configure the Cluster Show ganglia page and  upload as __exam_cluster.png__
 
  	
 
