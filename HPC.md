@@ -26,7 +26,7 @@
 	- Paste the out put of which mpiicc in intel.md
 11. login as user in cluster and take cpi.c file from git tools folder and compile it using intelmpicc
 
- 	#mpirun
+ 	####mpirun
 	``` mpiexec.hydra -machinefile hostfile np2 ./cpi.c ```
 	- paste out put in mpi.md
 
