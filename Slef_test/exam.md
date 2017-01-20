@@ -12,10 +12,12 @@
 		- peg
 	4. configure the share with below pattren
 <center>
+
 |User_Name|support-Permission|Peg-Permission|
 | :--------  | :---: | :---: |
 | support    | RW    | X   |
 | peg        | X     | RW  |
+
 </center>
 RW-Read Write
 
