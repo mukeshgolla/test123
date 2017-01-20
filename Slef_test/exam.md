@@ -22,12 +22,11 @@
 
 </center>
 RW-Read Write
-
 X-no Permission
 
 5. Take below screen shots
-	- show all share to exam_share.png
-	- show all users to exam_users.png
+	- show all share to __exam_share.png__
+	- show all users to __exam_users.png__
 		
 ## SAN
 
